@@ -24,8 +24,6 @@ Smoothing prints https://www.youtube.com/watch?v=lcQKHOWmG44
 
 ## Resins 
 
-EDF jet RC Channel Tested resins:
-
 Tested resins characteristics from best to worst:
 | Name| Notes| Temp
 | -------------------------------------- | --------- |--------- |
@@ -49,3 +47,4 @@ Tested resins characteristics from best to worst:
 | 17. Anycubic Standard Clear| very smelly very brittle shrinks low detail of print| max 50 deg. C.
 | 18. Anycubic EC UV Resin Clear| brittle very easy to break. Not worth the money.
 
+EDF jet RC Channel Tested resins:
