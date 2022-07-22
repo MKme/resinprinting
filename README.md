@@ -27,7 +27,7 @@ Smoothing prints https://www.youtube.com/watch?v=lcQKHOWmG44
 EDF jet RC Channel Tested resins:
 
 Tested resins characteristics from best to worst:
-| Name|Notes|Notes|Temp |
+| Name| Name | Notes|Notes|Temp |
 | -------------------------------------- | --------- | --------------- | --------------- |
 | 1. SirayaTech Build| super easy print| v. strong| max 100 deg C. My favourite resin by far :)
 | 2. 50% SirayaTech Build| 50% SirayaTech Tanacious| easy print| strong| not brittle| max. 73 deg. C.
