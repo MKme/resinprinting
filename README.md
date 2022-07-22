@@ -31,7 +31,7 @@ Tested resins characteristics from best to worst:
 |  50% SirayaTech Build 50% SirayaTech Tanacious| easy print strong not brittle| max. 73 deg. C.
 |  50% SirayaTech Build 50% Phrozen Nylon-Green| easy print a little brittle but springy| max75 C.
 |  SirayaTech Tanacious| moderate to print very soft but not springy not brittle| max 40 deg. C.
-|  Phrozen Nylon-Green Tough v. good resin moderate to print springy not brittle| max 55 deg. C.
+|  Phrozen Nylon-Green | Tough v. good resin moderate to print springy not brittle| max 55 deg. C.
 |  SirayaTech Simple| best beginner resin super easy to print very strong brittle| max 70 deg. C.
 |  Anycubic UV Tough Resin| very easy to print medium brittle| max 50 deg. C.
 |  SirayaTech Sculpt| medium brittle a bit elastic easy to break ok to print| max 80 deg. C.
