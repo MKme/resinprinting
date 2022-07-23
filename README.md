@@ -1,14 +1,25 @@
 # resinprinting
 Resin 3D Printing Resources, Tips, Tricks, Files and Information
 
+## Printer and Curing Station
+
+https://amzn.to/3PoqRDr  ANYCUBIC Photon M3 Resin 3D Printer, 7.6" LCD SLA UV 3D Resin Printer with 4K+ Monochrome Screen, Protective Film, Fast Printing, Max Printing Size 7.08" × 6.45" × 4.03"
+
+https://amzn.to/3PQDs28 ELEGOO Mercury Plus 2 in 1 Washing and Curing Machine for Mars 2 Mars 3 Photon S Photon Mono LCD/DLP/SLA 3D Printed Models Resin UV Curing Box with Rotary Curing Turntable (2.0)
+
+
+## Resin Im using: 
+
+https://amzn.to/3oq0alS Siraya Tech Build 3D Printer Resin High Resolution Non-Brittle Tappable Engineering Resin 405nm UV-Curing Standard Photopolymer Rapid Resin for LCD DLP 3D Printing (Smoky Black, 1kg)
+
+https://amzn.to/3PxixBh  ANYCUBIC Water Washable 3D Printer Resin, 405nm UV Rapid Resin for LCD 3D Printing, Low Odor, Low Viscosity and High Precision (1000 g, Grey)
 
 ## Parts & Gear
 
 Ram-Pro 50 Pack of Paint Strainers With 190 Micron Paint Filter| Fine Nylon Mesh Paint Filter Strainer - Premium Grade Paint Strainers Paper Cone - Perfect for All Painting Projects
 https://amzn.to/3J0viSl
 
-Siraya Tech Build 3D Printer Resin High Resolution Non-Brittle Tappable Engineering Resin 405nm UV-Curing Standard Photopolymer Rapid Resin for LCD DLP 3D Printing (Smoky Black| 1kg)
-https://amzn.to/3okUtWz
+
 
 ## Cool tutorials:
 
