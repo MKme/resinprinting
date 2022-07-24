@@ -31,7 +31,9 @@ Slicers https://www.youtube.com/watch?v=VXql8JUwqsw
 
 Fill gaps https://www.youtube.com/watch?v=R_1Fc_zint8
 
-Smoothing prints https://www.youtube.com/watch?v=lcQKHOWmG44
+Water curing NEAT https://www.youtube.com/watch?v=GN_Y2qx3ksg
+
+Smoothing fdm prints https://www.youtube.com/watch?v=lcQKHOWmG44
 
 ## Resins 
 
