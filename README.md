@@ -19,7 +19,9 @@ https://amzn.to/3PxixBh  ANYCUBIC Water Washable 3D Printer Resin, 405nm UV Rapi
 Ram-Pro 50 Pack of Paint Strainers With 190 Micron Paint Filter| Fine Nylon Mesh Paint Filter Strainer - Premium Grade Paint Strainers Paper Cone - Perfect for All Painting Projects
 https://amzn.to/3J0viSl
 
+## Tips
 
+For cured resin stuck on FEP- Set full screen exposure for 20 seconds and remove the sheet in one piece (from Anycubic Photon M3 Manual) 
 
 ## Cool tutorials:
 
